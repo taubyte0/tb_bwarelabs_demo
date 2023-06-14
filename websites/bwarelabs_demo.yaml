@@ -1,0 +1,12 @@
+id: QmaNPgLuACHY9e8y6GhMSZddyeEADVLXKEzKMfGQJxBG6v
+description: ""
+tags: []
+domains:
+    - GeneratedDomain
+source:
+    paths:
+        - /
+    branch: main
+    github:
+        id: 653672126
+        fullname: taubyte0/tb_website_bwarelabs_demo
